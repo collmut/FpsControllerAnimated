@@ -2,9 +2,9 @@
 A simple fps controller with animations
 
 # Pre-requisites
-Dotnet sdk (preferrably dotnet 8)
-Godot 4.3 stable (dotnet version)
-5 tomatoes
+> Dotnet sdk (preferrably dotnet 8)
+> Godot 4.3 stable (dotnet version)
+> 5 tomatoes
 
 # Features
 The animations : 
